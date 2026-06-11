@@ -11,6 +11,7 @@ Student with interests in computer science, mathematics, problem-solving, and bu
 | [ekRAAH](https://rishitc17.github.io/ekRAAH)                | Prototype        |
 | [Portfolio](https://rishitc17.github.io)                    | Complete         |
 | [Celestis Conclave](https://celestisconclave.github.io)     | Complete         |
+| [MealFlow](https://github.com/rishitc17/MealFlow)           | Complete         |
 | [Jr. Water Ambassadors](https://waterambassadors.github.io) | WIP              |
 
 
