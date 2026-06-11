@@ -21,9 +21,7 @@ Student with interests in computer science, mathematics, problem-solving, and bu
 
 **AI-powered self-defense training platform**
 
-[Live Site](https://rakshaapp.github.io)
-
-[Repository](https://github.com/rakshaapp/rakshaapp.github.io)
+[Live Site](https://rakshaapp.github.io) | [Repository](https://github.com/rakshaapp/rakshaapp.github.io)
 
 **Status:** Needs accuracy improvement
 
