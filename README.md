@@ -35,9 +35,7 @@ Raksha uses AI-powered pose detection to educate users on proper offensive and d
 
 **School menu voting platform**
 
-[Live Site](https://dpsimenu.in)
-
-[Repository](https://github.com/rishitc17/DPSIMenu)
+[Live Site](https://dpsimenu.in) | [Repository](https://github.com/rishitc17/DPSIMenu)
 
 **Status:** Ready for real-world deployment
 
@@ -49,9 +47,7 @@ A platform that allows students to vote on school menu options. Access is restri
 
 **Unified interface concept for Indian government services**
 
-[Live Site](https://rishitc17.github.io/ekRAAH)
-
-[Repository](https://github.com/rishitc17/ekRAAH)
+[Live Site](https://rishitc17.github.io/ekRAAH) | [Repository](https://github.com/rishitc17/ekRAAH)
 
 **Status:** Completed Prototype
 
@@ -61,9 +57,7 @@ Created for my team's project in the 1 Million Founders program, ekRAAH proposes
 
 ### Personal Portfolio Website
 
-[Live Site](https://rishitc17.github.io)
-
-[Repository](https://github.com/rishitc17/rishitc17.github.io)
+[Live Site](https://rishitc17.github.io) | [Repository](https://github.com/rishitc17/rishitc17.github.io)
 
 **Status:** Complete (may do aesthetic upgrades in the future—some projects additionally require proper documentation)
 
@@ -75,9 +69,7 @@ My portfolio site showcasing all projects and certificates, along with a few Ble
 
 **Regional STEM club website**
 
-[Live Site](https://celestisconclave.github.io)
-
-[Repository](https://github.com/celestisconclave/celestisconclave.github.io)
+[Live Site](https://celestisconclave.github.io) | [Repository](https://github.com/celestisconclave/celestisconclave.github.io)
 
 **Status:** Complete
 
@@ -99,9 +91,7 @@ Solving the frustration of what to make at meal times through AI that understand
 
 ### Jr. Water Ambassadors
 
-[Live Site](https://waterambassadors.github.io)
-
-[Repository](https://github.com/waterambassadors/waterambassadors.github.io)
+[Live Site](https://waterambassadors.github.io) | [Repository](https://github.com/waterambassadors/waterambassadors.github.io)
 
 **Status:** Work in progress
 
