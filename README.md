@@ -6,7 +6,7 @@ Student with interests in computer science, mathematics, problem-solving, and bu
 
 | Project                                                     | Status           |
 | ----------------------------------------------------------- | ---------------- |
-| [Raksha](https://rakshaapp.github.io)                       | Improving        |
+| [Raksha](https://rakshaone.github.io)                       | Improving        |
 | [DPSI Menu](https://dpsimenu.in)                            | Deployment Ready |
 | [ekRAAH](https://rishitc17.github.io/ekRAAH)                | Prototype        |
 | [Portfolio](https://rishitc17.github.io)                    | Complete         |
@@ -21,7 +21,7 @@ Student with interests in computer science, mathematics, problem-solving, and bu
 
 **AI-powered self-defense training platform**
 
-[Live Site](https://rakshaapp.github.io) | [Repository](https://github.com/rakshaapp/rakshaapp.github.io)
+[Live Site](https://rakshaone.github.io) | [Repository](https://github.com/rakshaone/rakshaone.github.io)
 
 **Status:** Needs accuracy improvement
 
