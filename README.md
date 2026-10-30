@@ -15,6 +15,7 @@ You can learn more about me and my projects on my [website](https://rishitc17.gi
 | MealFlow | Meal suggestion for Indian households               | Complete         | —                             | https://github.com/rishitc17/MealFlow                |
 | Vertex   | Competition management platform for students        | Improving        | https://vertexarena.github.io | https://github.com/VertexArena/vertexarena.github.io |
 | RawCrypt | Interactive cryptology learning for young audiences | Complete         | https://rawcrypt.onrender.com | https://github.com/rishitc17/RawCrypt                |
+| Socra | AI that encourages critical thinking rather than replacing it | Improving         | https://socra.in | https://github.com/SocraApp/socraapp.github.io                |
 
 ## Areas of Interest
 
